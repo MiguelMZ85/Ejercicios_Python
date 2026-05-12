@@ -51,6 +51,7 @@ print(f"\nHola, {nombre}!")
 print(f"Sesión iniciada el: {fecha_formateada}")
 print(f"Python {version_python} en {nombre_host} ({ip_local})")
 print("\n¡Listo para automatizar la red!")
+print("=" * 50)
 
 # ============================================================
 # DESAFÍO OPCIONAL (+1 punto extra):
